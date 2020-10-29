@@ -1,0 +1,4 @@
+bind_addr = ":8080"
+log_level = "debug" 
+# log_level = "error", or Level (debug)
+# level error позволяет пропустить уровень debug
